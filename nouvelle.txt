@@ -1,0 +1,14 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est D664-3A62
+
+ R‚pertoire de C:\Users\samah\Desktop\exemple
+
+07/07/2021  17:14    <REP>          .
+07/07/2021  17:14    <REP>          ..
+07/07/2021  17:07               533 branche.html
+07/07/2021  17:07                 7 brnche1.txt
+07/07/2021  16:05                40 localisation.txt
+07/07/2021  17:07                79 newsalma.txt
+07/07/2021  17:14                 0 nouvelle.txt
+               5 fichier(s)              659 octets
+               2 R‚p(s)  185ÿ667ÿ702ÿ784 octets libres
